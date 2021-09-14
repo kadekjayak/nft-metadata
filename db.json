@@ -1,16 +1,18 @@
-[
-    {
-        "name":"Sunset Ships",
-        "description":"",
-        "image":"ipfs://ipfs/QmeAazJ4TF2NvRNbvJmLfZjsEpGM1uyhGUV6ffFEfjUaxx",
-        "external_url":"https://github.com/kadekjayak/",
-        "attributes":[
-            {
-                "key":"alt_text",
-                "trait_type":"alt_text",
-                "value":"Sunset Ship"
-            }
-        ],
-        "id": 1
-    }
-]
+{
+    "nfts": [
+        {
+            "id": 1,
+            "name":"Sunset Ships",
+            "description":"",
+            "image":"ipfs://ipfs/QmeAazJ4TF2NvRNbvJmLfZjsEpGM1uyhGUV6ffFEfjUaxx",
+            "external_url":"https://github.com/kadekjayak/",
+            "attributes":[
+                {
+                    "key":"alt_text",
+                    "trait_type":"alt_text",
+                    "value":"Sunset Ship"
+                }
+            ]
+        }
+    ]
+}
