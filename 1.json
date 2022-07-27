@@ -1,0 +1,12 @@
+{
+	"name": "Frog #2",
+	"description": "Hello I'm a Frog #1",
+	"image": "https:\/\/avatars.githubusercontent.com\/u\/5086060",
+	"properties": {
+		"rich_property": {
+			"name": "Name",
+			"value": "123",
+			"display_value": "123 Example Value",
+		},
+	}
+}
