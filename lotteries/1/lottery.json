@@ -1,0 +1,9 @@
+{
+    "name": "Lottery #1",
+    "description": "Lottery #1",
+    "image": "https:\/\/avatars.githubusercontent.com\/u\/5086060",
+    "properties": {
+        "maximum_slot": "4",
+        "prize": "Cute Frog"
+    }
+}
