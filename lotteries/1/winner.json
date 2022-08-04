@@ -1,0 +1,10 @@
+{
+    "name": "Cute Frog",
+    "description": "Prize for Lottery #1",
+    "image": "https:\/\/avatars.githubusercontent.com\/u\/5086060",
+    "properties": {
+        "color": "Yellow",
+        "eyes": 2,
+        "species": "Frog"
+    }
+}
